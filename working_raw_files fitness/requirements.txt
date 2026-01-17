@@ -1,0 +1,22 @@
+# Core GUI Framework
+tkinterdnd2==0.3.0
+
+# Image Processing
+Pillow==10.2.0
+
+# Data Processing
+pandas==2.1.4
+openpyxl==3.1.2
+numpy==1.26.3
+
+# Database (built-in with Python, but listed for reference)
+# sqlite3 (included in Python standard library)
+
+# Excel file handling
+xlrd==2.0.1
+
+# PDF generation (if needed for reports)
+# reportlab==4.0.7
+
+# Building executable
+pyinstaller==6.3.0
